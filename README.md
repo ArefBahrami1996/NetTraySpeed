@@ -1,6 +1,3 @@
-### 1. `README.md` (Copy & save as `README.md` in your repo root)
-
-```markdown
 # NetSpeedTray 🚀
 
 A lightweight, borderless hardware monitor and network speed widget for Windows 10 & 11. It docks seamlessly next to your system tray or floats anywhere on your desktop with live network rates, CPU turbo frequencies, RAM, multi-disk activity, and GPU thermals.
