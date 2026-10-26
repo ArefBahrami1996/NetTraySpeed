@@ -1,0 +1,4 @@
+C:\Users\Aref\RiderProjects\NetSpeedTray\bin\Release\net10.0-windows\win-x64\publish\NetSpeedTray.pdb
+C:\Users\Aref\RiderProjects\NetSpeedTray\bin\Release\net10.0-windows\win-x64\publish\MonoPosixHelper.dll
+C:\Users\Aref\RiderProjects\NetSpeedTray\bin\Release\net10.0-windows\win-x64\publish\libMonoPosixHelper.dll
+C:\Users\Aref\RiderProjects\NetSpeedTray\bin\Release\net10.0-windows\win-x64\publish\NetSpeedTray.exe
