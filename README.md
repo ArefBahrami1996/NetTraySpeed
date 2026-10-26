@@ -2,6 +2,8 @@
 
 A lightweight, borderless hardware monitor and network speed widget for Windows 10 & 11. It docks seamlessly next to your system tray or floats anywhere on your desktop with live network rates, CPU turbo frequencies, RAM, multi-disk activity, and GPU thermals.
 
+<img width="710" height="55" alt="Screenshot 2026-10-26 124612" src="https://github.com/user-attachments/assets/0aa47e96-16a0-43a1-b48d-5616a74c3b99" />
+
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?logo=windows)
 ![Architecture](https://img.shields.io/badge/Architecture-x64-green)
 ![Target](https://img.shields.io/badge/.NET-8.0--windows-purple?logo=dotnet)
